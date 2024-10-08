@@ -1,0 +1,5 @@
+supervision
+numpy
+ultralytics
+numpy
+python-telegram-bot
