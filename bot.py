@@ -7,8 +7,8 @@ import cv2
 class BankGuardBot:
     def __init__(self):
         # Telegram configuration
-        self.TOKEN = "8106124538:AAFkPW8qQ7X9TtmsDV36glxCA60nG0zTinU"
-        self.CHAT_ID = 5150162292  # Replace with your numerical chat ID
+        self.TOKEN = "YOUR_TOKEN_NUMBER"
+        self.CHAT_ID = CHAT_ID  # Replace with your numerical chat ID
         # Initialize bot with request-based approach
         self.base_url = f"https://api.telegram.org/bot{self.TOKEN}"
 
